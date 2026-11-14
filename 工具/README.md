@@ -1,9 +1,9 @@
 # 工具目录
 
-## AssetStudio-火影魔改版.zip
+## AssetStudio-KiHan-mod-v0.16.zip（火影魔改版）
 
 > **下载**：见本仓库 [Releases](https://github.com/ChenNan06/naruto-emoji-extractor/releases)
-> 里的 `AssetStudio-火影魔改版.zip`（约 10 MB）。二进制不发在 git 里，避免 clone 变慢。
+> 里的 **`AssetStudio-KiHan-mod-v0.16.zip`**（约 10 MB）。二进制不发在 git 里，避免 clone 变慢。
 > 下好后解压到本目录即可。
 
 **能打开火影 `UnityKH*FS` 包的 AssetStudio**（AssetStudio v0.16.0.0 + 可插拔解密层）。
